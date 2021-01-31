@@ -1,4 +1,8 @@
 # CSharpProjects
  
- 
-Проекты будут добавлены 31.01.21 (21 проект)
+Все задания содержатся в папке проекта в файле "readme.txt"
+
+Содержимое TasksCollection: 7 проектов
+Содержимое TasksCollection2: 2 проекта
+Содержимое TasksCollection3: 4 проекта
+Содержимое TasksCollection4: 4 проекта
