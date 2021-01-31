@@ -1,0 +1,33 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Interface1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Interface1.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Implementation1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\bin\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.Form1.resources
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Interface1\obj\Debug\Interface1.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\bin\Debug\Interface1.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\bin\Debug\Interface1.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\bin\Debug\Implementation1.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\bin\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.Form1.resources
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\bin\Debug\Interface1.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\bin\Debug\Implementation1.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\bin\Debug\Implementation1.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.Form1.resources
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Interface1\obj\Debug\Interface1.pdb

@@ -1,0 +1,30 @@
+C:\Users\yakov\Desktop\Solution\task1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\yakov\Desktop\Solution\task1\Interface1\bin\Debug\Interface1.exe
+C:\Users\yakov\Desktop\Solution\task1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\yakov\Desktop\Solution\task1\Interface1\bin\Debug\Implementation1.dll
+C:\Users\yakov\Desktop\Solution\task1\Interface1\bin\Debug\Implementation1.pdb
+C:\Users\yakov\Desktop\Solution\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+C:\Users\yakov\Desktop\Solution\task1\Interface1\obj\Debug\Interface1.exe
+C:\Users\yakov\Desktop\Solution\task1\Interface1\obj\Debug\Interface1.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\bin\Debug\Interface1.exe.config
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\bin\Debug\Interface1.exe
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\bin\Debug\Interface1.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\bin\Debug\Implementation1.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\bin\Debug\Implementation1.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\obj\Debug\Interface1.exe
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task1\Interface1\obj\Debug\Interface1.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\bin\Debug\Interface1.exe
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\bin\Debug\Implementation1.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\bin\Debug\Implementation1.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\obj\Debug\Interface1.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\obj\Debug\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\obj\Debug\Interface1.csproj.CopyComplete
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\obj\Debug\Interface1.exe
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task1\Interface1\obj\Debug\Interface1.pdb

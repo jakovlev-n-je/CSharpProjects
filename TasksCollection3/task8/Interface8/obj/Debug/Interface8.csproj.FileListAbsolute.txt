@@ -1,0 +1,33 @@
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\bin\Debug\Interface8.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\bin\Debug\Interface8.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.csprojAssemblyReference.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\bin\Debug\Implementation8.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\bin\Debug\Implementation8.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.Form8.resources
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.csproj.GenerateResource.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Interface8\obj\Debug\Interface8.csproj.CopyComplete
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\bin\Debug\Interface8.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\bin\Debug\Interface8.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\bin\Debug\Implementation8.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\bin\Debug\Implementation8.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.Form8.resources
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csproj.CopyComplete
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Interface8\obj\Debug\Interface8.pdb
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\bin\Debug\Interface8.dll
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\bin\Debug\Interface8.pdb
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\bin\Debug\Implementation8.dll
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\bin\Debug\Implementation8.pdb
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.Form8.resources
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.dll
+C:\Users\yakov\Desktop\git\TasksCollection3\task8\Interface8\obj\Debug\Interface8.pdb

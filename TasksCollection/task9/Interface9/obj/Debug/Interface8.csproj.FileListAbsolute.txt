@@ -1,0 +1,22 @@
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\bin\Debug\Implementation8.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\bin\Debug\Implementation8.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.Form8.resources
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csproj.CopyComplete
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\bin\Debug\Interface8.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\bin\Debug\Interface8.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\bin\Debug\Interface8.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\bin\Debug\Interface8.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\bin\Debug\Implementation8.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\bin\Debug\Implementation8.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.Form8.resources
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csproj.GenerateResource.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csproj.CoreCompileInputs.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.csproj.CopyComplete
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Interface8\obj\Debug\Interface8.pdb

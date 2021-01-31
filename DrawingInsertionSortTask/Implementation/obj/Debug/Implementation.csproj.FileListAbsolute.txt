@@ -1,0 +1,11 @@
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task5\Implementation\bin\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task5\Implementation\bin\Debug\Implementation.pdb
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task5\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task5\Implementation\obj\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task5\Implementation\obj\Debug\Implementation.pdb
+E:\GitHub\course2\semester1\Computer-graphics\task5\Implementation\bin\Debug\Implementation.dll
+E:\GitHub\course2\semester1\Computer-graphics\task5\Implementation\bin\Debug\Implementation.pdb
+E:\GitHub\course2\semester1\Computer-graphics\task5\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Computer-graphics\task5\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+E:\GitHub\course2\semester1\Computer-graphics\task5\Implementation\obj\Debug\Implementation.dll
+E:\GitHub\course2\semester1\Computer-graphics\task5\Implementation\obj\Debug\Implementation.pdb

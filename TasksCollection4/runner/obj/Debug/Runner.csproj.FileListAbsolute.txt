@@ -1,0 +1,69 @@
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Runner.exe.config
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Runner.exe
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Runner.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Interface2.dll
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Interface5.dll
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Interface8.dll
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Implementation2.dll
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Implementation5.dll
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Implementation8.dll
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Interface2.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Interface5.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Interface8.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Implementation2.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Implementation5.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\bin\Debug\Implementation8.pdb
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.Form1.resources
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.Properties.Resources.resources
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.csproj.CopyComplete
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.exe
+C:\Users\yakov\Desktop\Шабанов Александр\ИСИТ\Solution\Runner\obj\Debug\Runner.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Runner.exe.config
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Runner.exe
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Runner.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Interface2.dll
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Interface8.dll
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Implementation2.dll
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Implementation8.dll
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Interface2.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Interface8.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Implementation2.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Implementation8.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.Form1.resources
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.Properties.Resources.resources
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.exe
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\obj\Debug\Runner.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Interface6.dll
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Implementation6.dll
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Interface6.pdb
+C:\Users\yakov\Desktop\git\TasksCollection4\runner\bin\Debug\Implementation6.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Runner.exe.config
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Runner.exe
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Runner.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Interface2.dll
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Interface6.dll
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Interface8.dll
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Implementation2.dll
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Implementation6.dll
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Implementation8.dll
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Interface2.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Interface6.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Interface8.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Implementation2.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Implementation6.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\bin\Debug\Implementation8.pdb
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.csprojAssemblyReference.cache
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.Form1.resources
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.Properties.Resources.resources
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.csproj.GenerateResource.cache
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.csproj.CopyComplete
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.exe
+E:\GitHub\CSharpProjects\TasksCollection4\runner\obj\Debug\Runner.pdb

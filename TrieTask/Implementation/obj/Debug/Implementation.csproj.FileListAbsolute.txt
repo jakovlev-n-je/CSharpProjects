@@ -1,0 +1,12 @@
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\bin\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\bin\Debug\Implementation.pdb
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.pdb
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\bin\Debug\Implementation.dll
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\bin\Debug\Implementation.pdb
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.dll
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Implementation\obj\Debug\Implementation.pdb

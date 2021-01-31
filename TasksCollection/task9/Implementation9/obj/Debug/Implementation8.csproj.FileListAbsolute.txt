@@ -1,0 +1,12 @@
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Implementation8\bin\Debug\Implementation8.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Implementation8\bin\Debug\Implementation8.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Implementation8\bin\Debug\Implementation8.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Implementation8\bin\Debug\Implementation8.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.csproj.CoreCompileInputs.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task8\Implementation8\obj\Debug\Implementation8.pdb

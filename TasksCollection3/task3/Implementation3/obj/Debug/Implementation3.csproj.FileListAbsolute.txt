@@ -1,0 +1,16 @@
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Implementation3\bin\Debug\Implementation3.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Implementation3\bin\Debug\Implementation3.pdb
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Implementation3\obj\Debug\Implementation3.csproj.CoreCompileInputs.cache
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Implementation3\obj\Debug\Implementation3.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Implementation3\obj\Debug\Implementation3.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Implementation3\bin\Debug\Implementation3.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Implementation3\bin\Debug\Implementation3.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Implementation3\obj\Debug\Implementation3.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Implementation3\obj\Debug\Implementation3.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Implementation3\obj\Debug\Implementation3.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Implementation3\bin\Debug\Implementation3.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Implementation3\bin\Debug\Implementation3.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Implementation3\obj\Debug\Implementation3.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Implementation3\obj\Debug\Implementation3.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Implementation3\obj\Debug\Implementation3.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Implementation3\obj\Debug\Implementation3.pdb

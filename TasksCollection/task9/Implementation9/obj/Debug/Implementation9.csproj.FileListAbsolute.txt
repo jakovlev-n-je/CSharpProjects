@@ -1,0 +1,6 @@
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Implementation8\bin\Debug\Implementation9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Implementation8\bin\Debug\Implementation9.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Implementation8\obj\Debug\Implementation9.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Implementation8\obj\Debug\Implementation9.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Implementation8\obj\Debug\Implementation9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Implementation8\obj\Debug\Implementation9.pdb

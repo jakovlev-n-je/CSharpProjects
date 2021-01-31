@@ -1,0 +1,33 @@
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\bin\Debug\Interface3.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\bin\Debug\Interface3.pdb
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\bin\Debug\Implementation3.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\bin\Debug\Implementation3.pdb
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.csprojAssemblyReference.cache
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.Form3.resources
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.csproj.GenerateResource.cache
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.csproj.CoreCompileInputs.cache
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.csproj.CopyComplete
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\task3\Interface3\obj\Debug\Interface3.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\bin\Debug\Interface3.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\bin\Debug\Interface3.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\bin\Debug\Implementation3.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\bin\Debug\Implementation3.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.csprojAssemblyReference.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.Form3.resources
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.csproj.GenerateResource.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.csproj.CopyComplete
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task3\Interface3\obj\Debug\Interface3.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\bin\Debug\Interface3.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\bin\Debug\Interface3.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\bin\Debug\Implementation3.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\bin\Debug\Implementation3.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.Form3.resources
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.csproj.CopyComplete
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task3\Interface3\obj\Debug\Interface3.pdb

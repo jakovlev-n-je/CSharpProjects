@@ -1,0 +1,23 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\bin\Debug\Implementation7.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\bin\Debug\Implementation7.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\obj\Debug\Implementation7.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\obj\Debug\Implementation7.csproj.CopyComplete
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\obj\Debug\Implementation7.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\obj\Debug\Implementation7.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\obj\Debug\Implementation7.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Implementation7\bin\Debug\FilmLibrary.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\bin\Debug\Implementation7.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\bin\Debug\Implementation7.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\bin\Debug\FilmLibrary.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\obj\Debug\Implementation7.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\obj\Debug\Implementation7.csproj.CopyComplete
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\obj\Debug\Implementation7.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\obj\Debug\Implementation7.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Implementation7\obj\Debug\Implementation7.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\bin\Debug\Implementation7.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\bin\Debug\Implementation7.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\obj\Debug\Implementation7.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\obj\Debug\Implementation7.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\obj\Debug\Implementation7.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\obj\Debug\Implementation7.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Implementation7\obj\Debug\Implementation7.pdb

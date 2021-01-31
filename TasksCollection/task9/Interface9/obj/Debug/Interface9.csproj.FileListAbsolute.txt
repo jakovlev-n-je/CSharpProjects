@@ -1,0 +1,44 @@
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\bin\Debug\Interface9.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\bin\Debug\Interface9.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\bin\Debug\Implementation9.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\bin\Debug\Implementation9.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.csproj.CopyComplete
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.Form9.resources
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task9\Interface9\obj\Debug\Interface9.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\bin\Debug\Interface9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\bin\Debug\Interface9.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\bin\Debug\Implementation9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\bin\Debug\Implementation9.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.Form9.resources
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface8\obj\Debug\Interface9.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\bin\Debug\Interface9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\bin\Debug\Interface9.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\bin\Debug\Implementation9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\bin\Debug\Implementation9.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.Form9.resources
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task9\Interface9\obj\Debug\Interface9.pdb
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\bin\Debug\Interface9.dll
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\bin\Debug\Interface9.pdb
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\bin\Debug\Implementation9.dll
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\bin\Debug\Implementation9.pdb
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.csprojAssemblyReference.cache
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.Form9.resources
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.csproj.GenerateResource.cache
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.csproj.CopyComplete
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.dll
+E:\GitHub\CSharpProjects\TasksCollection\task9\Interface9\obj\Debug\Interface9.pdb

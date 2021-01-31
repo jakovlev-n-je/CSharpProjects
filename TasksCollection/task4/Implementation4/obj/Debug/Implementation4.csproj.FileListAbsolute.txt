@@ -1,0 +1,18 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task4\Implementation4\bin\Debug\Implementation4.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task4\Implementation4\bin\Debug\Implementation4.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task4\Implementation4\obj\Debug\Implementation4.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task4\Implementation4\obj\Debug\Implementation4.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task4\Implementation4\obj\Debug\Implementation4.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task4\Implementation4\obj\Debug\Implementation4.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task4\Implementation4\bin\Debug\Implementation4.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task4\Implementation4\bin\Debug\Implementation4.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task4\Implementation4\obj\Debug\Implementation4.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task4\Implementation4\obj\Debug\Implementation4.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task4\Implementation4\obj\Debug\Implementation4.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task4\Implementation4\obj\Debug\Implementation4.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task4\Implementation4\bin\Debug\Implementation4.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task4\Implementation4\bin\Debug\Implementation4.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task4\Implementation4\obj\Debug\Implementation4.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task4\Implementation4\obj\Debug\Implementation4.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task4\Implementation4\obj\Debug\Implementation4.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task4\Implementation4\obj\Debug\Implementation4.pdb

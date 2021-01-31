@@ -1,0 +1,10 @@
+E:\Другое\Программы\Шабанов Александр\Solution\task5\Implementation5\bin\Debug\Implementation5.dll
+E:\Другое\Программы\Шабанов Александр\Solution\task5\Implementation5\bin\Debug\Implementation5.pdb
+E:\Другое\Программы\Шабанов Александр\Solution\task5\Implementation5\obj\Debug\Implementation5.csproj.CoreCompileInputs.cache
+E:\Другое\Программы\Шабанов Александр\Solution\task5\Implementation5\obj\Debug\Implementation5.dll
+E:\Другое\Программы\Шабанов Александр\Solution\task5\Implementation5\obj\Debug\Implementation5.pdb
+E:\Работа\Программы\Шабанов Александр\Solution\task5\Implementation5\bin\Debug\Implementation5.dll
+E:\Работа\Программы\Шабанов Александр\Solution\task5\Implementation5\bin\Debug\Implementation5.pdb
+E:\Работа\Программы\Шабанов Александр\Solution\task5\Implementation5\obj\Debug\Implementation5.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Шабанов Александр\Solution\task5\Implementation5\obj\Debug\Implementation5.dll
+E:\Работа\Программы\Шабанов Александр\Solution\task5\Implementation5\obj\Debug\Implementation5.pdb

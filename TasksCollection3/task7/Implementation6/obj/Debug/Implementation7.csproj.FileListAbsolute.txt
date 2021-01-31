@@ -1,0 +1,6 @@
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task7\Implementation6\bin\Debug\Implementation7.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task7\Implementation6\bin\Debug\Implementation7.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task7\Implementation6\obj\Debug\Implementation7.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task7\Implementation6\obj\Debug\Implementation7.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task7\Implementation6\obj\Debug\Implementation7.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task7\Implementation6\obj\Debug\Implementation7.pdb

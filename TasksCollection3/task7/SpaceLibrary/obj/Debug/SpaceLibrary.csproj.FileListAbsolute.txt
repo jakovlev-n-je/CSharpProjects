@@ -1,0 +1,17 @@
+E:\Другое\Программы\Солодовникова Дарья\Solution\SpaceLibrary\bin\Debug\SpaceLibrary.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\SpaceLibrary\bin\Debug\SpaceLibrary.pdb
+E:\Другое\Программы\Солодовникова Дарья\Solution\SpaceLibrary\obj\Debug\SpaceLibrary.csproj.CoreCompileInputs.cache
+E:\Другое\Программы\Солодовникова Дарья\Solution\SpaceLibrary\obj\Debug\SpaceLibrary.dll
+E:\Другое\Программы\Солодовникова Дарья\Solution\SpaceLibrary\obj\Debug\SpaceLibrary.pdb
+C:\Users\yakov\Desktop\SpaceLibrary\bin\Debug\SpaceLibrary.dll
+C:\Users\yakov\Desktop\SpaceLibrary\bin\Debug\SpaceLibrary.pdb
+C:\Users\yakov\Desktop\SpaceLibrary\obj\Debug\SpaceLibrary.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\SpaceLibrary\obj\Debug\SpaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\SpaceLibrary\obj\Debug\SpaceLibrary.dll
+C:\Users\yakov\Desktop\SpaceLibrary\obj\Debug\SpaceLibrary.pdb
+C:\Users\yakov\Desktop\ИСИТ\SpaceLibrary\bin\Debug\SpaceLibrary.dll
+C:\Users\yakov\Desktop\ИСИТ\SpaceLibrary\bin\Debug\SpaceLibrary.pdb
+C:\Users\yakov\Desktop\ИСИТ\SpaceLibrary\obj\Debug\SpaceLibrary.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\SpaceLibrary\obj\Debug\SpaceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\SpaceLibrary\obj\Debug\SpaceLibrary.dll
+C:\Users\yakov\Desktop\ИСИТ\SpaceLibrary\obj\Debug\SpaceLibrary.pdb

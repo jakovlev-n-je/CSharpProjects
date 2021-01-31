@@ -1,0 +1,18 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\bin\Debug\Implementation6.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\bin\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\bin\Debug\Implementation6.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\bin\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task6\Implementation6\bin\Debug\Implementation6.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task6\Implementation6\bin\Debug\Implementation6.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task6\Implementation6\obj\Debug\Implementation6.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task6\Implementation6\obj\Debug\Implementation6.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task6\Implementation6\obj\Debug\Implementation6.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task6\Implementation6\obj\Debug\Implementation6.pdb

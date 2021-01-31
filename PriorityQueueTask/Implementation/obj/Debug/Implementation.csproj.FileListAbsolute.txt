@@ -1,0 +1,17 @@
+C:\Users\yakov\source\repos\task3\Implementation\bin\Debug\Implementation.dll
+C:\Users\yakov\source\repos\task3\Implementation\bin\Debug\Implementation.pdb
+C:\Users\yakov\source\repos\task3\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\yakov\source\repos\task3\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\yakov\source\repos\task3\Implementation\obj\Debug\Implementation.dll
+C:\Users\yakov\source\repos\task3\Implementation\obj\Debug\Implementation.pdb
+C:\Users\yakov\Downloads\task3\Implementation\bin\Debug\Implementation.dll
+C:\Users\yakov\Downloads\task3\Implementation\bin\Debug\Implementation.pdb
+C:\Users\yakov\Downloads\task3\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Downloads\task3\Implementation\obj\Debug\Implementation.dll
+C:\Users\yakov\Downloads\task3\Implementation\obj\Debug\Implementation.pdb
+C:\Users\yakov\Desktop\git\PriorityQueueTask\Implementation\bin\Debug\Implementation.dll
+C:\Users\yakov\Desktop\git\PriorityQueueTask\Implementation\bin\Debug\Implementation.pdb
+C:\Users\yakov\Desktop\git\PriorityQueueTask\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\PriorityQueueTask\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\PriorityQueueTask\Implementation\obj\Debug\Implementation.dll
+C:\Users\yakov\Desktop\git\PriorityQueueTask\Implementation\obj\Debug\Implementation.pdb

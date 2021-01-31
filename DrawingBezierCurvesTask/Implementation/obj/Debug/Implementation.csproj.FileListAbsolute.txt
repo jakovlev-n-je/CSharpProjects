@@ -1,0 +1,18 @@
+C:\Users\Nikita\source\repos\Implementation\bin\Debug\Implementation.dll
+C:\Users\Nikita\source\repos\Implementation\bin\Debug\Implementation.pdb
+C:\Users\Nikita\source\repos\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\Implementation\obj\Debug\Implementation.dll
+C:\Users\Nikita\source\repos\Implementation\obj\Debug\Implementation.pdb
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task4\Implementation\bin\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task4\Implementation\bin\Debug\Implementation.pdb
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task4\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task4\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task4\Implementation\obj\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Computer-graphics\task4\Implementation\obj\Debug\Implementation.pdb
+C:\Users\yakov\Desktop\semester1\Computer-graphics\task4\Implementation\bin\Debug\Implementation.dll
+C:\Users\yakov\Desktop\semester1\Computer-graphics\task4\Implementation\bin\Debug\Implementation.pdb
+C:\Users\yakov\Desktop\semester1\Computer-graphics\task4\Implementation\obj\Debug\Implementation.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\semester1\Computer-graphics\task4\Implementation\obj\Debug\Implementation.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\semester1\Computer-graphics\task4\Implementation\obj\Debug\Implementation.dll
+C:\Users\yakov\Desktop\semester1\Computer-graphics\task4\Implementation\obj\Debug\Implementation.pdb

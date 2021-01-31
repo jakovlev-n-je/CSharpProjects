@@ -1,0 +1,11 @@
+E:\Работа\Программы\Шабанов Александр\Solution\task8\Implementation8\bin\Debug\Implementation8.dll
+E:\Работа\Программы\Шабанов Александр\Solution\task8\Implementation8\bin\Debug\Implementation8.pdb
+E:\Работа\Программы\Шабанов Александр\Solution\task8\Implementation8\obj\Debug\Implementation8.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Шабанов Александр\Solution\task8\Implementation8\obj\Debug\Implementation8.dll
+E:\Работа\Программы\Шабанов Александр\Solution\task8\Implementation8\obj\Debug\Implementation8.pdb
+E:\Работа\Программы\Шабанов Александр\ИСИТ\Solution\task8\Implementation8\bin\Debug\Implementation8.dll
+E:\Работа\Программы\Шабанов Александр\ИСИТ\Solution\task8\Implementation8\bin\Debug\Implementation8.pdb
+E:\Работа\Программы\Шабанов Александр\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.csprojAssemblyReference.cache
+E:\Работа\Программы\Шабанов Александр\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Шабанов Александр\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.dll
+E:\Работа\Программы\Шабанов Александр\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.pdb

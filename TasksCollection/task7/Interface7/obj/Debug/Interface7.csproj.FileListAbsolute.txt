@@ -1,0 +1,47 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\bin\Debug\Interface7.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\bin\Debug\Interface7.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\bin\Debug\Implementation7.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\bin\Debug\Implementation7.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.Form7.resources
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.csproj.CopyComplete
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\obj\Debug\Interface7.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task7\Interface7\bin\Debug\FilmLibrary.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\bin\Debug\Interface7.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\bin\Debug\Interface7.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\bin\Debug\FilmLibrary.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\bin\Debug\Implementation7.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\bin\Debug\Implementation7.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.Form7.resources
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csproj.CopyComplete
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\bin\Debug\Interface7.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\bin\Debug\Interface7.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\bin\Debug\FilmLibrary.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\bin\Debug\Implementation7.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\bin\Debug\Implementation7.pdb
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.Form7.resources
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csproj.GenerateResource.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csproj.CoreCompileInputs.cache
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.csproj.CopyComplete
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.dll
+E:\GitHub\course2\semester1\Information-systems-and-technologies\task7\Interface7\obj\Debug\Interface7.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\bin\Debug\Interface7.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\bin\Debug\Interface7.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\bin\Debug\Implementation7.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\bin\Debug\Implementation7.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.Form7.resources
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task7\Interface7\obj\Debug\Interface7.pdb

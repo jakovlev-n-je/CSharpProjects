@@ -1,0 +1,18 @@
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Implementation1\bin\Debug\Implementation1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Implementation1\bin\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Implementation1\obj\Debug\Implementation1.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Implementation1\obj\Debug\Implementation1.dll
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Implementation1\obj\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\Информационные системы и технологии\Solution\task1\Implementation1\obj\Debug\Implementation1.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Implementation1\bin\Debug\Implementation1.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Implementation1\bin\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Implementation1\obj\Debug\Implementation1.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Implementation1\obj\Debug\Implementation1.dll
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Implementation1\obj\Debug\Implementation1.pdb
+E:\2 курс\1 семестр\GitHub\Information-systems-and-technologies\task1\Implementation1\obj\Debug\Implementation1.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Implementation1\bin\Debug\Implementation1.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Implementation1\bin\Debug\Implementation1.pdb
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Implementation1\obj\Debug\Implementation1.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Implementation1\obj\Debug\Implementation1.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Implementation1\obj\Debug\Implementation1.dll
+C:\Users\yakov\Desktop\git\TasksCollection\task1\Implementation1\obj\Debug\Implementation1.pdb

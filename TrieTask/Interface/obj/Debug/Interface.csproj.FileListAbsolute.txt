@@ -1,0 +1,39 @@
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Interface.exe.config
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Interface.exe
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Interface.pdb
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Implementation.dll
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Implementation.pdb
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.Form1.resources
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.Properties.Resources.resources
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csproj.CopyComplete
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.exe
+E:\2 курс\1 семестр\GitHub\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.pdb
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Interface.exe.config
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Interface.exe
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Interface.pdb
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Implementation.dll
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\bin\Debug\Implementation.pdb
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.Form1.resources
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.Properties.Resources.resources
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.csproj.CopyComplete
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.exe
+E:\GitHub\course2\semester1\Structures-and-algorithms-for-computer-data-processing\task4\Interface\obj\Debug\Interface.pdb
+C:\Users\yakov\Desktop\git\TrieTask\Interface\bin\Debug\Interface.exe.config
+C:\Users\yakov\Desktop\git\TrieTask\Interface\bin\Debug\Interface.exe
+C:\Users\yakov\Desktop\git\TrieTask\Interface\bin\Debug\Interface.pdb
+C:\Users\yakov\Desktop\git\TrieTask\Interface\bin\Debug\Implementation.dll
+C:\Users\yakov\Desktop\git\TrieTask\Interface\bin\Debug\Implementation.pdb
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.csproj.GenerateResource.cache
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.exe
+C:\Users\yakov\Desktop\git\TrieTask\Interface\obj\Debug\Interface.pdb

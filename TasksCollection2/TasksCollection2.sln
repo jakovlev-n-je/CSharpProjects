@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task8", "task8", "{EF3DBB91-E6B8-4BD0-9E89-5DE11048E98D}"
+	ProjectSection(SolutionItems) = preProject
+		task8\readme.txt = task8\readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation8", "task8\Implementation8\Implementation8.csproj", "{7C702E4A-A6F0-4E35-A552-F1463EF413AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface8", "task8\Interface8\Interface8.csproj", "{D0C90ACB-F995-409C-B95A-6E67096A25F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "task6", "task6", "{83BDF534-DA45-45E0-9B81-2561FCA67685}"
+	ProjectSection(SolutionItems) = preProject
+		task6\readme.txt = task6\readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation6", "task6\Implementation6\Implementation6.csproj", "{F563D015-A8EC-4DCC-90C2-9A301D6159B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface6", "task6\Interface6\Interface6.csproj", "{5AD40664-D1FD-44F8-97CA-FD5A01B4EC5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "runner", "runner", "{3ECFAC76-2F73-4E8E-9FA8-99905EE37ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "runner\Runner.csproj", "{3E466E07-3E8E-4908-8EE3-5293F3333616}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "resources", "resources", "{9176C94F-3AAD-4D84-AF69-DFD6FF02CF8D}"
+	ProjectSection(SolutionItems) = preProject
+		runner\bin\Debug\Resources\house1.1.png = runner\bin\Debug\Resources\house1.1.png
+		runner\bin\Debug\Resources\house1.2.png = runner\bin\Debug\Resources\house1.2.png
+		runner\bin\Debug\Resources\house1.3.png = runner\bin\Debug\Resources\house1.3.png
+		runner\bin\Debug\Resources\house1.4.png = runner\bin\Debug\Resources\house1.4.png
+		runner\bin\Debug\Resources\house1.5.png = runner\bin\Debug\Resources\house1.5.png
+		runner\bin\Debug\Resources\house1.6.png = runner\bin\Debug\Resources\house1.6.png
+		runner\bin\Debug\Resources\house1.7.png = runner\bin\Debug\Resources\house1.7.png
+		runner\bin\Debug\Resources\house2.1.png = runner\bin\Debug\Resources\house2.1.png
+		runner\bin\Debug\Resources\house2.2.png = runner\bin\Debug\Resources\house2.2.png
+		runner\bin\Debug\Resources\house2.3.png = runner\bin\Debug\Resources\house2.3.png
+		runner\bin\Debug\Resources\house2.4.png = runner\bin\Debug\Resources\house2.4.png
+		runner\bin\Debug\Resources\house2.5.png = runner\bin\Debug\Resources\house2.5.png
+		runner\bin\Debug\Resources\house2.6.png = runner\bin\Debug\Resources\house2.6.png
+		runner\bin\Debug\Resources\house2.7.png = runner\bin\Debug\Resources\house2.7.png
+		runner\bin\Debug\Resources\house3.1.png = runner\bin\Debug\Resources\house3.1.png
+		runner\bin\Debug\Resources\house3.2.png = runner\bin\Debug\Resources\house3.2.png
+		runner\bin\Debug\Resources\house3.3.png = runner\bin\Debug\Resources\house3.3.png
+		runner\bin\Debug\Resources\house3.4.png = runner\bin\Debug\Resources\house3.4.png
+		runner\bin\Debug\Resources\house3.5.png = runner\bin\Debug\Resources\house3.5.png
+		runner\bin\Debug\Resources\house3.6.png = runner\bin\Debug\Resources\house3.6.png
+		runner\bin\Debug\Resources\house3.7.png = runner\bin\Debug\Resources\house3.7.png
+		runner\bin\Debug\Resources\lorry.png = runner\bin\Debug\Resources\lorry.png
+		runner\bin\Debug\Resources\lorry_h1.png = runner\bin\Debug\Resources\lorry_h1.png
+		runner\bin\Debug\Resources\lorry_h2.png = runner\bin\Debug\Resources\lorry_h2.png
+		runner\bin\Debug\Resources\lorry_h3.png = runner\bin\Debug\Resources\lorry_h3.png
+		runner\bin\Debug\Resources\mason.png = runner\bin\Debug\Resources\mason.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C702E4A-A6F0-4E35-A552-F1463EF413AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C702E4A-A6F0-4E35-A552-F1463EF413AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C702E4A-A6F0-4E35-A552-F1463EF413AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C702E4A-A6F0-4E35-A552-F1463EF413AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C90ACB-F995-409C-B95A-6E67096A25F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C90ACB-F995-409C-B95A-6E67096A25F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C90ACB-F995-409C-B95A-6E67096A25F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C90ACB-F995-409C-B95A-6E67096A25F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F563D015-A8EC-4DCC-90C2-9A301D6159B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F563D015-A8EC-4DCC-90C2-9A301D6159B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F563D015-A8EC-4DCC-90C2-9A301D6159B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F563D015-A8EC-4DCC-90C2-9A301D6159B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD40664-D1FD-44F8-97CA-FD5A01B4EC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD40664-D1FD-44F8-97CA-FD5A01B4EC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD40664-D1FD-44F8-97CA-FD5A01B4EC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD40664-D1FD-44F8-97CA-FD5A01B4EC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E466E07-3E8E-4908-8EE3-5293F3333616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E466E07-3E8E-4908-8EE3-5293F3333616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E466E07-3E8E-4908-8EE3-5293F3333616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E466E07-3E8E-4908-8EE3-5293F3333616}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C702E4A-A6F0-4E35-A552-F1463EF413AB} = {EF3DBB91-E6B8-4BD0-9E89-5DE11048E98D}
+		{D0C90ACB-F995-409C-B95A-6E67096A25F9} = {EF3DBB91-E6B8-4BD0-9E89-5DE11048E98D}
+		{F563D015-A8EC-4DCC-90C2-9A301D6159B4} = {83BDF534-DA45-45E0-9B81-2561FCA67685}
+		{5AD40664-D1FD-44F8-97CA-FD5A01B4EC5E} = {83BDF534-DA45-45E0-9B81-2561FCA67685}
+		{3E466E07-3E8E-4908-8EE3-5293F3333616} = {3ECFAC76-2F73-4E8E-9FA8-99905EE37ADC}
+		{9176C94F-3AAD-4D84-AF69-DFD6FF02CF8D} = {EF3DBB91-E6B8-4BD0-9E89-5DE11048E98D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04550A44-47F6-4723-929E-CCE0FFAD8885}
+	EndGlobalSection
+EndGlobal

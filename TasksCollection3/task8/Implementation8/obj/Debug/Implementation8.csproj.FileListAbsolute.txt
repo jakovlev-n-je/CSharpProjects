@@ -1,0 +1,11 @@
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Implementation8\bin\Debug\Implementation8.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Implementation8\bin\Debug\Implementation8.pdb
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.csproj.CoreCompileInputs.cache
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.dll
+E:\Работа\Программы\Солодовникова Дарья\ИСИТ\Solution\task8\Implementation8\obj\Debug\Implementation8.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Implementation8\bin\Debug\Implementation8.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Implementation8\bin\Debug\Implementation8.pdb
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Implementation8\obj\Debug\Implementation8.csprojAssemblyReference.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Implementation8\obj\Debug\Implementation8.csproj.CoreCompileInputs.cache
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Implementation8\obj\Debug\Implementation8.dll
+C:\Users\yakov\Desktop\ИСИТ\TasksCollection3\task8\Implementation8\obj\Debug\Implementation8.pdb
